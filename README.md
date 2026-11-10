@@ -10,7 +10,7 @@ Pre-final year CSE (AI & ML) @ NGIT, Hyderabad
 
 
 
-<a href="https://vardan969.vercel.app"><b>Personal portfolio</b></a>
+<!-- <a href="https://vardan969.vercel.app"><b>Personal portfolio</b></a>
  ·
 <a href="https://www.linkedin.com/in/vrdn969"><b>Linkedin</b></a>
  ·
@@ -23,7 +23,7 @@ Pre-final year CSE (AI & ML) @ NGIT, Hyderabad
  · 
 <a href="https://localhost969.live"><b>Team portfolio</b></a>
 <br>
-
+ -->
 
 
 
